@@ -1,0 +1,28 @@
+Read me file:
+
+Task1_to_5.ipynb is the code for the basic task. This is implemented on jupyternotebook. 
+Thus, you can run this code at least on jypyter notebook.
+
+Atari_Task9_10.ipynb is the code for the Atari task. 
+When you have the error, please follow the comment which I wrote. 
+Then, the code will run successfully. This is implemented on google colab. 
+Thus, at least on this environment, you can run the codes.
+
+DRL file is the the file contains the codes for the task 7 and 8, and also the date.
+If you use this file in your local PC, you might have an error, 
+because I implemented the codes and run the codes on google collab. 
+Thus, you can successfully run the code. Only my custom environment, 
+stock trading market is .py file, This is because I imported this environment to my main script.
+
+Notice: I do not put random seed in any codes. 
+Thus, If you re-run my codes, then you may have the different results,
+because my agents basically do not perfectly converge.
+However, I make sure that I obtain all the results coming from my implemented codes.
+
+Another notice: when you get the error in any codes after running the code, then please
+Refer to my comments on the codes. Then, in all codes, you can successfully run all codes!
+
+The data is used for Task 1 to 8, and so you put the data in the right place. For task 7,8, 
+You need to download and put the data file in your local PC folder. As for task 1 to 5, you
+Should put the data in the same directly of the task1_to_5.ipynb.
+
